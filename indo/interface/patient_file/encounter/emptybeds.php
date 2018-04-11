@@ -82,11 +82,10 @@ function showUser(str) {
 <select name="abc" onchange="showUser(this.value)">
 	<option value="">Choose:</option>
    
-	<option value="Private">Private</option>
-	<option value="ICU">ICU</option>
-	<option value="NICU">NICU</option>
-	<option value="SemiPrivate">SemiPrivate</option>
-	<option value="Triple___Private">Triple Private</option>
+	<option value="Silver">Silver Suite</option>
+	<option value="Gold">Gold Suite</option>
+	<option value="Diamond">Diamond Suite</option>
+	<option value="Platinum">Platinum Suite</option>
 </select>
 
 
